@@ -4,17 +4,17 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'cs-CZ'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Kroužek programování pro děti'
+description: "Výuka programování pro děti na prvním stupni ZŠ"
 
-short_url: 'jekyllt.github.io/jasper/'
-google_analytics: UA-69281367-1
+short_url: 'xsuchy.github.io/krouzek-programovani.cz/'
+#google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /krouzek-programovani.cz/
 
 # Permalinks
 permalink: /:title
@@ -50,8 +50,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://xsuchy.github.io/krouzek-programovani.cz/
+source_url:  https://github.com/xsuchy/krouzek-programovani.cz/
 
 exclude:
   - README.md
