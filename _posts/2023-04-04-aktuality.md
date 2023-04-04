@@ -4,7 +4,6 @@ cover: 'assets/images/cover2.jpg'
 navigation: True
 title: Aktuality
 date: 2023-04-04 10:18:00
-logo: 'assets/images/ghost.png'
 author: Mirek Suchý
 ---
 
