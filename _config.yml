@@ -14,7 +14,7 @@ short_url: 'xsuchy.github.io/krouzek-programovani.cz/'
 #google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /krouzek-programovani.cz/
+baseurl: /
 
 # Permalinks
 permalink: /:title
@@ -50,7 +50,7 @@ repo: krouzek-programovani.cz
 branch: master
 relative_source: ../krouzek-programovani.cz/
 destination: ../_site/
-production_url:  https://xsuchy.github.io/krouzek-programovani.cz/
+production_url:  https://krouzek-programovani.cz/
 source_url:  https://github.com/xsuchy/krouzek-programovani.cz/
 
 exclude:
